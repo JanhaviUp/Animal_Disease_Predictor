@@ -35,10 +35,10 @@ Open your browser and go to: http://127.0.0.1:5000
 How to Use
 Enter the animal name (e.g., Dog, Cat, Cow).
 Fill in all five symptoms (case-insensitive).
-Click Submit.
+Click Predict.
 You’ll see:
-✅ No, it is not dangerous. (Normal)
-⚠️ Yes, it is dangerous. (Severe)
+No, it is not dangerous. (Normal)
+Yes, it is dangerous. (Severe)
 
 *Model Used*
 Model: Random Forest Classifier
