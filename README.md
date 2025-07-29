@@ -2,7 +2,7 @@
 
 This project is a web-based machine learning application that predicts whether an animal's disease is dangerous (severe) or not dangerous (normal) based on the animal name and five reported symptoms.
 
-📁 Project Structure
+📁 Project Structure:
 The project is organized into a structured directory for clarity and modularity. The app.py file serves as the Flask backend that handles form submissions and predictions. The train_model.py script is used to train the machine learning model from dataset.csv and save it as disease_model.pkl. The templates/ folder contains the index.html file, which provides a user interface for inputting animal names and symptoms. The optional static/ folder holds styling files like style.css. All project documentation is included in the README.md file, giving an overview of usage and structure. This setup allows for easy development, training, and deployment of the animal disease prediction system.
 
 ⚙️ Requirements
